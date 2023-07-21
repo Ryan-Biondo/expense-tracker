@@ -1,0 +1,17 @@
+html,
+body {
+    height: 100%;
+
+    padding: 0;
+
+    background-color: rgb(168, 155, 214);
+    font-size: 1.2em;
+    margin: 1em;
+}
+form {
+    width: 400px;
+}
+table {
+    width: 50%;
+    border-collapse: collapse;
+}
